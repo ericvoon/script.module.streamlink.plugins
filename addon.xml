@@ -9,8 +9,8 @@
     <summary>Streamlink Plugins</summary>
     <description>Copy your custom streamlink plugins in this Kodi plugin.</description>
     <platform>all</platform>
-    <!--<license></license>-->
-    <!--<source></source>-->
+    <license>GNU GPL, version 2</license>
+    <source>https://github.com/Twilight0/script.module.streamlink.plugins</source>
     <!--<website></website>-->
     <!--<language></language>-->
   </extension>
